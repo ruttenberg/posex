@@ -1,2 +1,6 @@
 # posex
 clojure
+
+```
+lein run
+```
